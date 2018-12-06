@@ -1,6 +1,4 @@
-# Car-Buying-Selling-Program
-
-ARAÇ YÖNETİM SİSTEMİ
+#ARAÇ YÖNETİM SİSTEMİ
 
 Bir firma için araç yönetim sistemi tasarlanacaktır. Firmanın toplamda üç tür araç
 sınıfı bulunmaktadır (kara, deniz ve hava). Kara taşıtları kendi arasında motorlu ve
